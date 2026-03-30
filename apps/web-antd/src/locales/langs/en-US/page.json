@@ -1,0 +1,21 @@
+{
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "codeLogin": "Code Login",
+    "qrcodeLogin": "Qr Code Login",
+    "forgetPassword": "Forget Password"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "analytics": "Analytics",
+    "workspace": "Workspace"
+  },
+  "system": {
+    "title": "System Management",
+    "organization": "Organization Management",
+    "user": "User Management",
+    "role": "Role Management",
+    "dictionary": "Dictionary Management"
+  }
+}
